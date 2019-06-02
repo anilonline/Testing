@@ -1,4 +1,5 @@
 user { 'user_anil':
+
         name => 'anil',
         ensure => present,
         home => '/home/kumar',
