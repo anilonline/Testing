@@ -7,5 +7,5 @@ user { 'user_anil':
         uid => 5001,
         comment => 'User created using puppet',
         system => no,
-
+	expiry => absent,
 }
